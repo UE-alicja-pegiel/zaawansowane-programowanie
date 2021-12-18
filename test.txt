@@ -1,2 +1,1 @@
-Tekst testowy nr 1 
-blabla
+Test czy działa mi w końcu git
